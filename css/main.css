@@ -292,6 +292,8 @@ section .section-wrapper {
 .skill-wrapper .skill-item {
   display: flex;
   gap: 20px;
+}
+.skill-item{
   justify-content: center;
   align-items: center;
 }
