@@ -293,10 +293,6 @@ section .section-wrapper {
   display: flex;
   gap: 20px;
 }
-.skill-item{
-  justify-content: center;
-  align-items: center;
-}
 .skill-wrapper .skill-item .skill-icon {
   height: 70px;
   width: 70px;
