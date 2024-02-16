@@ -292,6 +292,8 @@ section .section-wrapper {
 .skill-wrapper .skill-item {
   display: flex;
   gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 .skill-wrapper .skill-item .skill-icon {
   height: 70px;
